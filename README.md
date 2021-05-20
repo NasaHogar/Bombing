@@ -1,5 +1,5 @@
 <h2>
-<p align="center" color='#686868ff'>Nasa-Bombin<p/>
+<p align="center" color='#686868ff'>Nasa-Bombing<p/>
  <p align="center">Nasa Bombing</p>
  </h2>
 ### Auther :
