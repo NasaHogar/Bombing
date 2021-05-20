@@ -18,9 +18,6 @@ echo This Script Was Made By NasaHogar >update.speedx
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
-fi
-while :
-do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
