@@ -23,6 +23,8 @@
 ## FOR RUN TOOL :
 * `cd Bombing`
 * * `bash Nasabombing.sh`
+* * `python2 Nasabombing.py`
+
 
 
 
